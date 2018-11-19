@@ -1,6 +1,10 @@
+## Overview
+
+This is the code for [this](https://youtu.be/vcYBiwvauA4) video on Youtube by Siraj Raval. This is an implementation of the Trust Region Policy Optimization algorithm that was used by the researchers in the video. They did not, however, make their full code public. So here is the technique applied to game environments. Someone can use it as a starting point to recreate their code, or they can go ahead and release it, since the community would appreciate it.
+
 # PyTorch implementation of TRPO
 
-Try my implementation of [PPO](github.com/ikostrikov/pytorch-a2c-ppo-acktr/) (aka newer better variant of TRPO), unless you need to you TRPO for some specific reasons.
+Try this implementation of [PPO](github.com/ikostrikov/pytorch-a2c-ppo-acktr/) (aka newer better variant of TRPO), unless you need to you TRPO for some specific reasons.
 
 ##
 
@@ -28,11 +32,7 @@ HalfCheetah-v1, Hopper-v1, Swimmer-v1, Walker2d-v1: 25000
 
 Ant-v1, Humanoid-v1: 50000
 
-## Results
 
-More or less similar to the original code. Coming soon.
+## Credits
 
-## Todo
-
-- [ ] Plots.
-- [ ] Collect data in multiple threads.
+Credits for this code go to [ikostrikov](https://github.com/ikostrikov). I've merely created a wrapper to get people started. 
