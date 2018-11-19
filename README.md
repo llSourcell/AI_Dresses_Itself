@@ -1,6 +1,6 @@
 ## Overview
 
-This is the code for [this](https://youtu.be/vcYBiwvauA4) video on Youtube by Siraj Raval. This is an implementation of the Trust Region Policy Optimization algorithm that was used by the researchers in the video. They did not, however, make their full code public. So here is the technique applied to game environments. Someone can use it as a starting point to recreate their code, or they can go ahead and release it, since the community would appreciate it.
+This is the code for [this](https://youtu.be/vcYBiwvauA4) video on Youtube by Siraj Raval. This is an implementation of the Trust Region Policy Optimization algorithm that was used by the researchers in the video. They did not, however, make their full code public. So here is the technique applied to game environments. Someone can use it as a starting point to recreate their code. Meanwhile -- hey researchers :) go ahead and release it the community would appreciate it.
 
 # PyTorch implementation of TRPO
 
